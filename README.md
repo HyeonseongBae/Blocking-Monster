@@ -1,0 +1,2 @@
+- A* algorithm
+- Finite State Machine
